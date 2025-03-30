@@ -1,0 +1,9 @@
+@URL=http://127.0.0.1:8080
+###
+
+POST {{URL}}/v1/asr?t=123
+Content-Type: application/json
+
+{}
+
+###
